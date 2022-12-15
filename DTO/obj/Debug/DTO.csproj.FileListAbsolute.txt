@@ -1,0 +1,40 @@
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DTO\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DTO\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DTO\obj\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\DTO\obj\Debug\DTO.pdb
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\DTO\bin\Debug\DTO.dll
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\DTO\bin\Debug\DTO.pdb
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\DTO\obj\Debug\DTO.dll
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\DTO\obj\Debug\DTO.pdb
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\DTO\bin\Debug\DTO.dll
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\DTO\bin\Debug\DTO.pdb
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\DTO\obj\Debug\DTO.dll
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\DTO\obj\Debug\DTO.pdb
+D:\baitap\LTQL_BTTH04\DTO\bin\Debug\DTO.dll
+D:\baitap\LTQL_BTTH04\DTO\bin\Debug\DTO.pdb
+D:\baitap\LTQL_BTTH04\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\baitap\LTQL_BTTH04\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\baitap\LTQL_BTTH04\DTO\obj\Debug\DTO.dll
+D:\baitap\LTQL_BTTH04\DTO\obj\Debug\DTO.pdb
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\DTO\bin\Debug\DTO.dll
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\DTO\bin\Debug\DTO.pdb
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\DTO\obj\Debug\DTO.dll
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\DTO\obj\Debug\DTO.pdb
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\file giải nén\DTH195150_BTTH4_TT\DTO\bin\Debug\DTO.dll
+E:\file giải nén\DTH195150_BTTH4_TT\DTO\bin\Debug\DTO.pdb
+E:\file giải nén\DTH195150_BTTH4_TT\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\file giải nén\DTH195150_BTTH4_TT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\file giải nén\DTH195150_BTTH4_TT\DTO\obj\Debug\DTO.dll
+E:\file giải nén\DTH195150_BTTH4_TT\DTO\obj\Debug\DTO.pdb
+E:\fileGiaiNen\DTH195522\DTO\bin\Debug\DTO.dll
+E:\fileGiaiNen\DTH195522\DTO\bin\Debug\DTO.pdb
+E:\fileGiaiNen\DTH195522\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\fileGiaiNen\DTH195522\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\fileGiaiNen\DTH195522\DTO\obj\Debug\DTO.dll
+E:\fileGiaiNen\DTH195522\DTO\obj\Debug\DTO.pdb

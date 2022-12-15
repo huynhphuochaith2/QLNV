@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{953A797F-391D-401E-8357-83C6CEF4AEA9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EPPlus, Version=6.0.4.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.6.0.4\lib\net35\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.Interfaces, Version=6.0.0.0, Culture=neutral, PublicKeyToken=a694d7f3b0907a61, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.Interfaces.6.0.0\lib\net35\EPPlus.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.System.Drawing, Version=6.0.0.0, Culture=neutral, PublicKeyToken=2308d35469c9bac0, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.System.Drawing.6.0.0\lib\net35\EPPlus.System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChinh.Designer.cs">
+      <DependentUpon>frmChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChucVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChucVu.Designer.cs">
+      <DependentUpon>frmChucVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoiMatKhau.Designer.cs">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDuAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDuAn.Designer.cs">
+      <DependentUpon>frmDuAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLuong.Designer.cs">
+      <DependentUpon>frmLuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNguoiDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNguoiDung.Designer.cs">
+      <DependentUpon>frmNguoiDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhanVien.Designer.cs">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPhongBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhongBan.Designer.cs">
+      <DependentUpon>frmPhongBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuatrinhLuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuatrinhLuong.Designer.cs">
+      <DependentUpon>frmQuatrinhLuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmChinh.resx">
+      <DependentUpon>frmChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChucVu.resx">
+      <DependentUpon>frmChucVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoiMatKhau.resx">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDuAn.resx">
+      <DependentUpon>frmDuAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLuong.resx">
+      <DependentUpon>frmLuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNguoiDung.resx">
+      <DependentUpon>frmNguoiDung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhanVien.resx">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhongBan.resx">
+      <DependentUpon>frmPhongBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuatrinhLuong.resx">
+      <DependentUpon>frmQuatrinhLuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{e242089a-81e0-4ef8-9f67-50dab3350383}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{915bea84-2997-410f-8603-0c3d87179db0}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4568.jpg_wh860.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-login-26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-login-261.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-log-out-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-change-password-58.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-staff-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4568.jpg_wh8601.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-book-26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-salary-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-department-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-close-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-system-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-category-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-united-airlines-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-insurance-fixture-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-remove-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-system-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sorting-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-search-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-close-301.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-background-vector-4605104.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\custom-login-wallpaper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-find-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-project-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-recruitment-background-banner-picture-image_1037995.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-simple-office-worker-meeting-advertising-background-backgroundmeetingdata-linewhite-collaroffice-image_59029.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thiet-ke-phong-lv-cong-so-01%281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salary.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coins-stacks-on-laptop_23-2147931179.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

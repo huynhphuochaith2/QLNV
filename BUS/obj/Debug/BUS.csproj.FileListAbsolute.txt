@@ -1,0 +1,126 @@
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\BUS.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\obj\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B3\BaiMau\LTQL_B3\BUS\obj\Debug\BUS.pdb
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\BUS.pdb
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\DAO.dll
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\DTO.dll
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\DAO.pdb
+E:\Vi\2015\LTQL\BTTH\B4\BUS\bin\Debug\DTO.pdb
+E:\Vi\2015\LTQL\BTTH\B4\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Vi\2015\LTQL\BTTH\B4\BUS\obj\Debug\BUS.dll
+E:\Vi\2015\LTQL\BTTH\B4\BUS\obj\Debug\BUS.pdb
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\bin\Debug\BUS.dll
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\bin\Debug\BUS.pdb
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\bin\Debug\DAO.dll
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\bin\Debug\DTO.dll
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\bin\Debug\DAO.pdb
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\bin\Debug\DTO.pdb
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\obj\Debug\BUS.dll
+E:\Vi\2016\LTQL\Thuc hanh LTQL\LTQL_BTTH05\B4_mau\BUS\obj\Debug\BUS.pdb
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\bin\Debug\BUS.dll
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\bin\Debug\BUS.pdb
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\bin\Debug\DAO.dll
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\bin\Debug\DTO.dll
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\bin\Debug\DAO.pdb
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\bin\Debug\DTO.pdb
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\obj\Debug\BUS.dll
+D:\GiangDay\LTQL\BTTH\LTQL_BTTH03\BUS\obj\Debug\BUS.pdb
+D:\baitap\LTQL_BTTH03\BUS\bin\Debug\BUS.dll
+D:\baitap\LTQL_BTTH03\BUS\bin\Debug\BUS.pdb
+D:\baitap\LTQL_BTTH03\BUS\bin\Debug\DAO.dll
+D:\baitap\LTQL_BTTH03\BUS\bin\Debug\DTO.dll
+D:\baitap\LTQL_BTTH03\BUS\bin\Debug\DAO.pdb
+D:\baitap\LTQL_BTTH03\BUS\bin\Debug\DTO.pdb
+D:\baitap\LTQL_BTTH03\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\baitap\LTQL_BTTH03\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\baitap\LTQL_BTTH03\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\baitap\LTQL_BTTH03\BUS\obj\Debug\BUS.dll
+D:\baitap\LTQL_BTTH03\BUS\obj\Debug\BUS.pdb
+D:\baitap\LTQL_BTTH04\BUS\bin\Debug\BUS.dll
+D:\baitap\LTQL_BTTH04\BUS\bin\Debug\BUS.pdb
+D:\baitap\LTQL_BTTH04\BUS\bin\Debug\DAO.dll
+D:\baitap\LTQL_BTTH04\BUS\bin\Debug\DTO.dll
+D:\baitap\LTQL_BTTH04\BUS\bin\Debug\DAO.pdb
+D:\baitap\LTQL_BTTH04\BUS\bin\Debug\DTO.pdb
+D:\baitap\LTQL_BTTH04\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\baitap\LTQL_BTTH04\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\baitap\LTQL_BTTH04\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\baitap\LTQL_BTTH04\BUS\obj\Debug\BUS.dll
+D:\baitap\LTQL_BTTH04\BUS\obj\Debug\BUS.pdb
+Z:\LTQL_BTTH04_tt\BUS\bin\Debug\BUS.dll
+Z:\LTQL_BTTH04_tt\BUS\bin\Debug\BUS.pdb
+Z:\LTQL_BTTH04_tt\BUS\bin\Debug\DAO.dll
+Z:\LTQL_BTTH04_tt\BUS\bin\Debug\DTO.dll
+Z:\LTQL_BTTH04_tt\BUS\bin\Debug\DAO.pdb
+Z:\LTQL_BTTH04_tt\BUS\bin\Debug\DTO.pdb
+Z:\LTQL_BTTH04_tt\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+Z:\LTQL_BTTH04_tt\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+Z:\LTQL_BTTH04_tt\BUS\obj\Debug\BUS.csproj.CopyComplete
+Z:\LTQL_BTTH04_tt\BUS\obj\Debug\BUS.dll
+Z:\LTQL_BTTH04_tt\BUS\obj\Debug\BUS.pdb
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\BUS\bin\Debug\BUS.dll
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\BUS\bin\Debug\BUS.pdb
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\BUS\bin\Debug\DAO.dll
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\BUS\bin\Debug\DTO.dll
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\BUS\bin\Debug\DAO.pdb
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\BUS\bin\Debug\DTO.pdb
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\BUS\obj\Debug\BUS.dll
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\LTQL_BTTH04_tt_NguyenvinhKy\BUS\obj\Debug\BUS.pdb
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\DTH195150_BTTH4_TT\BUS\bin\Debug\BUS.dll
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\DTH195150_BTTH4_TT\BUS\bin\Debug\BUS.pdb
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\DTH195150_BTTH4_TT\BUS\bin\Debug\DAO.dll
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\DTH195150_BTTH4_TT\BUS\bin\Debug\DTO.dll
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\DTH195150_BTTH4_TT\BUS\bin\Debug\DAO.pdb
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\DTH195150_BTTH4_TT\BUS\bin\Debug\DTO.pdb
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\DTH195150_BTTH4_TT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\DTH195150_BTTH4_TT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\DTH195150_BTTH4_TT\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\DTH195150_BTTH4_TT\BUS\obj\Debug\BUS.dll
+E:\Lap_Trinh_Quan_Ly\Practical_Exercise\DTH195150_BTTH4_TT\BUS\obj\Debug\BUS.pdb
+E:\file giải nén\DTH195150_BTTH4_TT\BUS\bin\Debug\BUS.dll
+E:\file giải nén\DTH195150_BTTH4_TT\BUS\bin\Debug\BUS.pdb
+E:\file giải nén\DTH195150_BTTH4_TT\BUS\bin\Debug\DAO.dll
+E:\file giải nén\DTH195150_BTTH4_TT\BUS\bin\Debug\DTO.dll
+E:\file giải nén\DTH195150_BTTH4_TT\BUS\bin\Debug\DAO.pdb
+E:\file giải nén\DTH195150_BTTH4_TT\BUS\bin\Debug\DTO.pdb
+E:\file giải nén\DTH195150_BTTH4_TT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\file giải nén\DTH195150_BTTH4_TT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\file giải nén\DTH195150_BTTH4_TT\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\file giải nén\DTH195150_BTTH4_TT\BUS\obj\Debug\BUS.dll
+E:\file giải nén\DTH195150_BTTH4_TT\BUS\obj\Debug\BUS.pdb
+E:\file giải nén\DTH195522\BUS\bin\Debug\BUS.dll
+E:\file giải nén\DTH195522\BUS\bin\Debug\BUS.pdb
+E:\file giải nén\DTH195522\BUS\bin\Debug\DAO.dll
+E:\file giải nén\DTH195522\BUS\bin\Debug\DTO.dll
+E:\file giải nén\DTH195522\BUS\bin\Debug\DAO.pdb
+E:\file giải nén\DTH195522\BUS\bin\Debug\DTO.pdb
+E:\file giải nén\DTH195522\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\file giải nén\DTH195522\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\file giải nén\DTH195522\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\file giải nén\DTH195522\BUS\obj\Debug\BUS.dll
+E:\file giải nén\DTH195522\BUS\obj\Debug\BUS.pdb
+E:\fileGiaiNen\DTH195522\BUS\bin\Debug\BUS.dll
+E:\fileGiaiNen\DTH195522\BUS\bin\Debug\BUS.pdb
+E:\fileGiaiNen\DTH195522\BUS\bin\Debug\DAO.dll
+E:\fileGiaiNen\DTH195522\BUS\bin\Debug\DTO.dll
+E:\fileGiaiNen\DTH195522\BUS\bin\Debug\DAO.pdb
+E:\fileGiaiNen\DTH195522\BUS\bin\Debug\DTO.pdb
+E:\fileGiaiNen\DTH195522\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\fileGiaiNen\DTH195522\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\fileGiaiNen\DTH195522\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\fileGiaiNen\DTH195522\BUS\obj\Debug\BUS.dll
+E:\fileGiaiNen\DTH195522\BUS\obj\Debug\BUS.pdb
